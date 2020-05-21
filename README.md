@@ -13,3 +13,5 @@ E2E Testing with Cypress include the following test cases
 - Currency Exchange 
 - Transfer Funds 
 - Filter transaction 
+
+N.B: In terms of selector, ID is recommended over class or other form of selector. 
